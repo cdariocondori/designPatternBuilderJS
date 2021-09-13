@@ -1,0 +1,24 @@
+{
+  "name": "Design-pattern",
+  "version": "1.0.0",
+  "description": "Implement design pattern with javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdariocondori/designPatternBuilderJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdariocondori/designPatternBuilderJS/issues"
+  },
+  "homepage": "https://github.com/cdariocondori/designPatternBuilderJS#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
